@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    background-color:rgba(173, 40, 40, 0.575);
+    border: 3px solid black;
+    border-radius:10px;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+p{
+    color: rgb(28, 46, 40);
+    background-color:blanchedalmond;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+    border-radius:18px;
+    text-align: justify;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-left:20px;
+    margin-right:20px;
+
+}
